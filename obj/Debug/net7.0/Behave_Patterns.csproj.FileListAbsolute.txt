@@ -1,0 +1,15 @@
+D:\ucioba\TPP\Behave_Patterns\bin\Debug\net7.0\Behave_Patterns.exe
+D:\ucioba\TPP\Behave_Patterns\bin\Debug\net7.0\Behave_Patterns.deps.json
+D:\ucioba\TPP\Behave_Patterns\bin\Debug\net7.0\Behave_Patterns.runtimeconfig.json
+D:\ucioba\TPP\Behave_Patterns\bin\Debug\net7.0\Behave_Patterns.dll
+D:\ucioba\TPP\Behave_Patterns\bin\Debug\net7.0\Behave_Patterns.pdb
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.csproj.AssemblyReference.cache
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.AssemblyInfoInputs.cache
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.AssemblyInfo.cs
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.csproj.CoreCompileInputs.cache
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.dll
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\refint\Behave_Patterns.dll
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.pdb
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\Behave_Patterns.genruntimeconfig.cache
+D:\ucioba\TPP\Behave_Patterns\obj\Debug\net7.0\ref\Behave_Patterns.dll
